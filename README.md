@@ -1,2 +1,2 @@
 # html-portfolio
-My First HTML Project
+This repository contains my First HTML Project
